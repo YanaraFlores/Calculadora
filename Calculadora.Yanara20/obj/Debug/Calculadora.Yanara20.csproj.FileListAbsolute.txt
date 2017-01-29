@@ -1,0 +1,9 @@
+c:\users\moguel\documents\visual studio 2013\Projects\Calculadora.Yanara20\Calculadora.Yanara20\bin\Debug\Calculadora.Yanara20.exe.config
+c:\users\moguel\documents\visual studio 2013\Projects\Calculadora.Yanara20\Calculadora.Yanara20\bin\Debug\Calculadora.Yanara20.exe
+c:\users\moguel\documents\visual studio 2013\Projects\Calculadora.Yanara20\Calculadora.Yanara20\bin\Debug\Calculadora.Yanara20.pdb
+c:\users\moguel\documents\visual studio 2013\Projects\Calculadora.Yanara20\Calculadora.Yanara20\obj\Debug\Calculadora.Yanara20.csprojResolveAssemblyReference.cache
+c:\users\moguel\documents\visual studio 2013\Projects\Calculadora.Yanara20\Calculadora.Yanara20\obj\Debug\Calculadora.Yanara20.Form1.resources
+c:\users\moguel\documents\visual studio 2013\Projects\Calculadora.Yanara20\Calculadora.Yanara20\obj\Debug\Calculadora.Yanara20.Properties.Resources.resources
+c:\users\moguel\documents\visual studio 2013\Projects\Calculadora.Yanara20\Calculadora.Yanara20\obj\Debug\Calculadora.Yanara20.csproj.GenerateResource.Cache
+c:\users\moguel\documents\visual studio 2013\Projects\Calculadora.Yanara20\Calculadora.Yanara20\obj\Debug\Calculadora.Yanara20.exe
+c:\users\moguel\documents\visual studio 2013\Projects\Calculadora.Yanara20\Calculadora.Yanara20\obj\Debug\Calculadora.Yanara20.pdb
